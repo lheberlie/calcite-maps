@@ -1,0 +1,21 @@
+{
+  "name": "calcite-maps",
+  "version": "0.0.1",
+  "description": "A design framework for building beautiful mapping apps for web and mobile devices.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lheberlie/calcite-maps.git"
+  },
+  "keywords": [
+    "Esri",
+    "calcite",
+    "calcite-bootstrap",
+    "calcite-maps"
+  ],
+  "author": "Allan Laframboise <alaframboise@esri.com> (http://alaframboise.github.io/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Esri/calcite-maps/issues"
+  },
+  "homepage": "https://github.com/Esri/calcite-maps#readme"
+}
